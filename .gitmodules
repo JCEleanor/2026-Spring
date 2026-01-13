@@ -1,0 +1,3 @@
+[submodule "CSCI-220/playground"]
+	path = CSCI-220/playground
+	url = https://github.com/Mines-CSCI220/Playground.git
